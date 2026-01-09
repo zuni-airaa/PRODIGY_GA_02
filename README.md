@@ -1,10 +1,14 @@
-```markdown
+# PRODIGY_GA_02 – Image Generation with Stable Diffusion
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u6qigQb-k0Q4CRnphkJjVcrCfaBjCI4e#scrollTo=YOmwqjSJiO03)
 
-# PRODIGY_GA_02
+---
 
 ##  Project Overview
-This project demonstrates text‑to‑image generation using **Stable Diffusion** and **DALL‑E‑mini**, two state‑of‑the‑art generative models. By providing descriptive prompts, the models generate unique and creative visuals, showcasing the potential of diffusion models in AI‑driven art and design.
+This project demonstrates text‑to‑image generation using **Stable Diffusion** and **DALL‑E‑mini**, two state‑of‑the‑art generative models.  
+By providing descriptive prompts, the models generate unique and creative visuals, showcasing the potential of diffusion models in AI‑driven art and design.
+
+---
 
 ##  Features
 - Image generation from natural language prompts  
@@ -12,20 +16,15 @@ This project demonstrates text‑to‑image generation using **Stable Diffusion*
 - Curated `prompts.txt` dataset for testing  
 - Example outputs showcasing generated images  
 
-##  Repository Structure
-- `notebooks/` → Colab notebook for image generation  
-- `data/` → Curated prompt dataset (`prompts.txt`)  
-- `results/` → Generated image samples  
-- `README.md` → Project documentation  
-- `requirements.txt` → Dependencies  
+---
 
-##  Setup
-Install dependencies:
+##  Requirements
+Install dependencies using the requirements file:
+
 ```bash
-pip install diffusers transformers torch accelerate
-```
+pip install -r requirements/requirements.txt
 
-Run the notebook in Google Colab or locally to generate images from prompts.
+```
 
 ##  References
 - HuggingFace Diffusers: [Stable Diffusion documentation](https://huggingface.co/docs/diffusers/index)  
@@ -67,7 +66,7 @@ Here are some example outputs generated using Stable Diffusion:
 
 Sample outputs are stored in the `results/` folder for reference.
 ```
-## 📂 Repository Structure
+##  Repository Structure
 
 PRODIGY_GA_02/
 ├── notebooks/
