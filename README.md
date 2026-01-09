@@ -1,5 +1,5 @@
 ```markdown
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zuni-airaa/PRODIGY_GA_02/blob/main/notebooks/PRODIGY_GA_02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u6qigQb-k0Q4CRnphkJjVcrCfaBjCI4e#scrollTo=YOmwqjSJiO03)
 
 # PRODIGY_GA_02
 
@@ -67,6 +67,24 @@ Here are some example outputs generated using Stable Diffusion:
 
 Sample outputs are stored in the `results/` folder for reference.
 ```
+## 📂 Repository Structure
+
+PRODIGY_GA_02/
+├── notebooks/
+│   └── PRODIGY_GA_02.ipynb
+├── data/
+│   └── prompts.txt
+├── results/
+│   └── samples/
+│       ├── output_1.png
+│       ├── output_2.png
+│       ├── output_3.png
+│       ├── output_4.png
+│       └── output_5.png
+├── requirements/
+│   └── requirements.txt
+└── README.md
+
 
 This mirrors Task‑01 exactly — same badge, headings, flow, and example usage — but adapted for image generation.  
 
