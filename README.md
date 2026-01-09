@@ -65,9 +65,10 @@ Here are some example outputs generated using Stable Diffusion:
 ---
 
 Sample outputs are stored in the `results/` folder for reference.
-```
+
 ##  Repository Structure
 
+```
 PRODIGY_GA_02/
 ├── notebooks/
 │   └── PRODIGY_GA_02.ipynb
