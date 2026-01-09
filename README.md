@@ -85,6 +85,3 @@ PRODIGY_GA_02/
 └── README.md
 
 
-This mirrors Task‑01 exactly — same badge, headings, flow, and example usage — but adapted for image generation.  
-
-Would you like me to also prepare a **matching LinkedIn post draft** for Task‑02, so your announcement looks consistent with Task‑01’s style?
